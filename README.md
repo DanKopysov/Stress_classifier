@@ -11,4 +11,5 @@ In this script there are all of the steps I have made to prepare the solution. T
 - SVM
 - Random forest
 - Ensemble classificator  
+  
 The most effective in terms of F1 measure is the last one - Ensemble classificator. So, it would be the main algorithm for further work.
